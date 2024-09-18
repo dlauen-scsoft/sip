@@ -1,5 +1,5 @@
 <Response>
     <Refer>
-        <Sip>sip:VOIP1@sc-soft-nfr.voip.parloa.com?X-Number=+494074305877</Sip>
+        <Sip>sip:+494074305877@sc-soft-nfr.voip.parloa.com</Sip>
     </Refer>
 </Response>
