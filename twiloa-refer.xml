@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-<Refer>
-<Sip>sip:VOIP1@sc-soft-nfr.voip.parloa.com</Sip>
-</Refer>
+    <Refer>
+        <Sip>sip:VOIP1@sc-soft-nfr.voip.parloa.com?X-Number=+494074305877</Sip>
+    </Refer>
 </Response>
